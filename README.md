@@ -10,6 +10,6 @@ create and crack passwords, do brute force attacks and remain anonymous on the i
 
 
 
-Contact me
-https://twitter.com/Black_Bones101
+
+[twitter]: https://twitter.com/Black_Bones101
 
