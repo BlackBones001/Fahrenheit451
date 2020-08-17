@@ -20,4 +20,8 @@ create and crack passwords, do brute force attacks and remain anonymous on the i
 
 [Instagram](https://www.instagram.com/black_bones101/)
 
+# Donate me
+![Screenshot from 2020-08-16 17-15-45](https://user-images.githubusercontent.com/69769205/90347282-2684db00-dfe4-11ea-9108-774812483194.png)
 
+
+Your donations will help me pay for my studies in my engineering. Thanks for taking the time to read me and use my tool <3
