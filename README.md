@@ -7,9 +7,17 @@ create and crack passwords, do brute force attacks and remain anonymous on the i
 ![Screenshot from 2020-08-16 16-02-30](https://user-images.githubusercontent.com/69769205/90345956-ed476d80-dfd9-11ea-8d47-c877b7073cbe.png)
 
 
+## Install
+* git clone https://github.com/BlackBones001/Fahrenheit451.git
+*  cd Fahrenheit451
+*  bash f451.sh
 
 
 
 
-[twitter]: https://twitter.com/Black_Bones101
+## Contact me
+[Twitter](https://twitter.com/Black_Bones101)
+
+[Instagram](https://www.instagram.com/black_bones101/)
+
 
